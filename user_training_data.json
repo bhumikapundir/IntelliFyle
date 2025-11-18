@@ -1,0 +1,122 @@
+[
+  {
+    "filename": "user_training_data.json",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:00:31.429742"
+  },
+  {
+    "filename": "__init__.cpython-312.pyc",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:00:49.385614"
+  },
+  {
+    "filename": "monitor.cpython-312.pyc",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:00:49.387216"
+  },
+  {
+    "filename": "__init__.cpython-312.pyc",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:03:31.086119"
+  },
+  {
+    "filename": "monitor.cpython-312.pyc",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:03:31.087509"
+  },
+  {
+    "filename": "report.pdf",
+    "category": "Documents",
+    "timestamp": "2025-10-26T16:06:53.895424"
+  },
+  {
+    "filename": "photo.jpg",
+    "category": "Images",
+    "timestamp": "2025-10-26T16:06:53.898823"
+  },
+  {
+    "filename": "data.xlsx",
+    "category": "Spreadsheets",
+    "timestamp": "2025-10-26T16:06:53.901697"
+  },
+  {
+    "filename": "script.py",
+    "category": "Code",
+    "timestamp": "2025-10-26T16:06:53.904319"
+  },
+  {
+    "filename": "song.mp",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:06:53.906660"
+  },
+  {
+    "filename": "Screenshot 2025-10-26 at 4.07.09\u202fPM.png",
+    "category": "Images",
+    "timestamp": "2025-10-26T16:07:16.436941"
+  },
+  {
+    "filename": "report.pdf",
+    "category": "Documents",
+    "timestamp": "2025-10-26T16:08:39.538050"
+  },
+  {
+    "filename": "photo.jpg",
+    "category": "Images",
+    "timestamp": "2025-10-26T16:08:39.540634"
+  },
+  {
+    "filename": "data.xlsx",
+    "category": "Spreadsheets",
+    "timestamp": "2025-10-26T16:08:39.542669"
+  },
+  {
+    "filename": "script.py",
+    "category": "Code",
+    "timestamp": "2025-10-26T16:08:39.545052"
+  },
+  {
+    "filename": "song.mp",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:08:39.547224"
+  },
+  {
+    "filename": "report.pdf",
+    "category": "Documents",
+    "timestamp": "2025-10-26T16:09:00.926640"
+  },
+  {
+    "filename": "photo.jpg",
+    "category": "Images",
+    "timestamp": "2025-10-26T16:09:00.928903"
+  },
+  {
+    "filename": "data.xlsx",
+    "category": "Spreadsheets",
+    "timestamp": "2025-10-26T16:09:00.930862"
+  },
+  {
+    "filename": "script.py",
+    "category": "Code",
+    "timestamp": "2025-10-26T16:09:00.932636"
+  },
+  {
+    "filename": "song.mp3",
+    "category": "Audio",
+    "timestamp": "2025-10-26T16:09:00.934824"
+  },
+  {
+    "filename": "Screenshot 2025-10-26 at 4.09.19\u202fPM.png",
+    "category": "Images",
+    "timestamp": "2025-10-26T16:09:26.397397"
+  },
+  {
+    "filename": "report.pdf",
+    "category": "Documents",
+    "timestamp": "2025-10-26T16:10:13.625116"
+  },
+  {
+    "filename": "test_document.pdf",
+    "category": "Documents",
+    "timestamp": "2025-10-26T16:13:04.527013"
+  }
+]
